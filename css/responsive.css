@@ -1,0 +1,12 @@
+@media (max-width:992px){
+    .row.bnr-bottom-panel {
+        position: relative;
+        margin-top: 25px;
+    }
+    .revanest_gaptxt {
+        margin-left: 0;
+    }
+    .advantage-header {
+        font-size: 34px;
+    }
+}
