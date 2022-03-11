@@ -22,9 +22,7 @@ body,html{margin:0;font-size:100%;font-family:'Open Sans',sans-serif;background:
     text-align: center;
     letter-spacing: .28px;
     width: 118px;
-    height: 39px;
     margin-right: 10px;
-    line-height: 39px;
 }
 .loginbtn {
     background: 0 0;
