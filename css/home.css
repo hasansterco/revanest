@@ -1231,8 +1231,8 @@ a.nav-link {
         padding-top: 50px!important
     }
     .incubated_gaptxt {
-        -webkit-text-stroke: 1px #fff;
-        font-size: 67px
+        -webkit-text-stroke: 1px #f27e33;
+        font-size: 35px
     }
     .gradient_redcard {
         width: 100%!important;
@@ -1255,16 +1255,15 @@ a.nav-link {
     }
     .startups_gaptxt {
         -webkit-text-stroke: 1px #f27e33;
-        font-size: 65px!important;
+        font-size: 45px!important;
         padding-top: 60px;
-        padding-left: 10px!important
     }
     .ladyimage {
         width: 100%
     }
     .revanest_gaptxt {
         font-size: 60px;
-        margin-left: 12px;
+        margin-left: 0px;
         z-index: 0
     }
     .weare_width {
@@ -1287,9 +1286,8 @@ a.nav-link {
     }
     .partner_gaptxt {
         -webkit-text-stroke: 1px #f27e33;
-        font-size: 71px;
+        font-size: 45px;
         padding-top: 10px;
-        position: absolute!important
     }
     .mentor_gaptxt {
         font-size: 61px;
