@@ -1,0 +1,12 @@
+.post-title {
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.date {
+    font-size: 13px;
+    font-weight: 500;
+    display: inline-block;
+    color: #f07734;
+}
