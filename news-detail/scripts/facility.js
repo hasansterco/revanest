@@ -1,0 +1,1 @@
+var slideIndex=[1,1],slideId=["coworkingSlides","coworkingSlides2"];function plusDivs(s,e){showDivs(slideIndex[e]+=s,e)}function showDivs(s,e){var i,l=document.getElementsByClassName(slideId[e]);for(s>l.length&&(slideIndex[e]=1),s<1&&(slideIndex[e]=l.length),i=0;i<l.length;i++)l[i].style.display="none";l[slideIndex[e]-1].style.display="block"}showDivs(1,0),showDivs(1,1);
