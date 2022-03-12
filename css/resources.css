@@ -1,0 +1,43 @@
+.resources-tabs nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.resources-tabs nav a {
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 0;
+}
+.download-btn {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    text-align: center;
+    letter-spacing: 0.28px;
+    margin-right: 10px;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#f0712f), to(#f7a35b));
+    background-image: linear-gradient(to top, #f0712f, #f7a35b);
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.pdf-flex span {
+    font-size: 15px;
+    font-weight: 600;
+    display: inline-block;
+    margin-left: 15px;
+}
+.awareness_gaptxt {
+    -webkit-text-stroke: 1px #f27e33;
+    font-size: 100px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 4.8px;
+    color: transparent;
+    padding-top: 60px;
+    line-height: 88px;
+}
