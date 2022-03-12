@@ -1,0 +1,55 @@
+.incubated-title {
+    -webkit-text-stroke: 1px #fff;
+    font-size: 80px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 79.7px;
+    letter-spacing: 2.4px;
+    color: transparent;
+    padding-top: 40px;
+    text-transform: capitalize;
+}
+.company-tabs .nav-tabs {
+    border-bottom: 1px solid #dfdfdf !important;
+}
+
+.company-tabs .nav-tabs .nav-link.active {
+    border: 0 !important;
+    background-color: transparent;
+}
+.company-tabs .nav-tabs .nav-link {
+    color: #000;
+    font-weight: 700;
+    text-align: center;
+    font-size: 15px;
+    padding: 14px 24px;
+}
+.company-tabs .nav-tabs .nav-link + .nav-link {
+    border-left: 1px solid #dfdfdf ;
+}
+.company-tabs .nav-tabs {
+    display: flex;
+    justify-content: space-around;
+}
+.incubated-box h4 {
+    text-transform: capitalize;
+    font-size: 18px;
+    padding: 8px 14px;
+    margin: 0;
+}
+.incubated-box p {
+    padding: 2px 14px;
+    margin: 0;
+}
+.image-box .meta {
+    position: absolute;
+    background-color: #f07532;
+    color: #fff;
+    text-align: center;
+    padding: 3px 10px;
+    right: 12px;
+    top: 12px;
+    font-size: 13px;
+    border-radius: 45px;
+}
