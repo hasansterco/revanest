@@ -1,0 +1,50 @@
+.heading1 {
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: #34495d;
+}
+
+#laboratories .owl-stage-outer{
+    padding-bottom: 136px;
+}
+.awareness_gaptxt {
+    -webkit-text-stroke: 1px #f27e33;
+    font-size: 100px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: 4.8px;
+    color: transparent;
+    padding-top: 60px;
+    line-height: 88px;
+}
+.accelerator-box {
+    box-shadow: 9px 9px 9px 0 rgb(178 178 190 / 20%);
+    background: #FFFFFF;
+    border-radius: 6px;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}
+.facility_orange_box {
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#f0712f), to(#f59331));
+    background-image: linear-gradient(to top, #f0712f, #f59331);
+}
+.content {
+    font-size: 14px;
+    color: #fff;
+    padding: 10px 10px;
+}
+.facility_green_box {
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#8bc43f), to(#0095a1));
+    background-image: linear-gradient(to top, #8bc43f, #0095a1);
+}
+@media (min-width: 992px) {
+    
+    .accelerator-box p {
+        font-size: 13px;
+    }   
+}
