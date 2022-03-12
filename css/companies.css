@@ -41,6 +41,7 @@
 .incubated-box p {
     padding: 2px 14px;
     margin: 0;
+    font-size: 13px;
 }
 .image-box .meta {
     position: absolute;
@@ -52,4 +53,12 @@
     top: 12px;
     font-size: 13px;
     border-radius: 45px;
+}
+.incubated-box .date {
+    font-size: 13px;
+    font-weight: 500;
+    display: inline-block;
+    padding: 0 14px;
+    margin-top: 12px;
+    color: #f07734;
 }
